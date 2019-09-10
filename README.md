@@ -10,3 +10,5 @@ A good example for SLAs or metrics Ambassadors are meant to meet can be included
 * translators
 
 You will how to apply and about the different roles on this page. This is a page we'll need to write copy for. It's the landing page for ambassadors.
+
+Subscribe to this repo if you want to be updated about new research ideas and discussions.
