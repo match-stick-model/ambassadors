@@ -1,7 +1,12 @@
 # Welcome to the ambassadors repo for the matchstickmodel
 
-This is the first page that will tell you about how the ambassador program works. It's going to be an overview and a simple guide. You will be told how to submit ideas, how to monitor the stages of proposals by looking at the 'projects' in the top tab.
+This is the first page that will tell you about how the ambassador program works. It's going to be an overview and a simple guide. We can create teams so only approved Ambassadors can work here but the work can be transaprent. 
 
-We'll explain how to submit a suggestion through the 'issues' tab, how to keep track of where funding is being awarded and the milestones that projects have met.
+A good example for SLAs or metrics Ambassadors are meant to meet can be included in the projects board. There is a board for each role...
 
-This is a page we'll need to write copy for. It's the landing page for funding.
+* content creators
+* meetups
+* moderators
+* translators
+
+You will how to apply and about the different roles on this page. This is a page we'll need to write copy for. It's the landing page for ambassadors.
