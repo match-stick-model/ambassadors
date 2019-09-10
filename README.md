@@ -1,4 +1,4 @@
-# Welcome to the ambassadors repo for the matchstickmodel
+# Welcome to the ambassadors repo.
 
 This is the first page that will tell you about how the ambassador program works. It's going to be an overview and a simple guide. We can create teams so only approved Ambassadors can work here but the work can be transaprent. 
 
