@@ -7,7 +7,7 @@ Welcome to the Ambassador's repository is designed to help support the growth an
 * * properly recognizing and rewarding the efforts of regular contributors. 
 * * sending a welcome pack for Ambassadors (eg. T-shirt, tote bag and stickers)* * * * * .
 
-# Why now is the ideal time to start contributing
+## Why now is the ideal time to start contributing
 
 To recognize and encourage the work of our regular community contributors, we offer the following support and exclusive opportunities:
  
@@ -23,7 +23,7 @@ To recognize and encourage the work of our regular community contributors, we of
  
  -----------
 
-**Ambassador Roles**
+## Ambassador Roles
 
 01. MODERATORS GET REWARDED
 
