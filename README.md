@@ -3,9 +3,9 @@
 Welcome to the Ambassador's repository is designed to help support the growth and continuing development of our brilliant community. Subscribe to this repo if you want to get updated about new research ideas and discussions.
 
 * helping members understand how and where they can contribute.
-* * highlighting the areas where support is most needed.
-* * properly recognizing and rewarding the efforts of regular contributors. 
-* * sending a welcome pack for Ambassadors (eg. T-shirt, tote bag and stickers)* * * * * .
+* highlighting the areas where support is most needed.
+* properly recognizing and rewarding the efforts of regular contributors. 
+* sending a welcome pack for Ambassadors (eg. T-shirt, tote bag and stickers)* * * * * .
 
 ## Why now is the ideal time to start contributing
 
