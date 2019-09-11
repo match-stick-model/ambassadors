@@ -23,13 +23,12 @@ To recognize and encourage the work of our regular community contributors, we of
  
  -----------
 
-Ambassador Roles
+**Ambassador Roles**
 
 01. MODERATORS GET REWARDED
 
 Your community needs you! 
 We are looking for all kinds of people with different backgrounds and experiences to help cultivate and nurture the community. Our Moderators are individuals who love people and want to help. We have several official channels, with each delivering information in a different way and some channels are area-specific.
-
 
 Having moderators in different parts of the world helps the community feel welcomed at all times.
 
@@ -46,7 +45,6 @@ Maximum rewards of US$300 are given each month to Moderators who successfully me
 You will communicate with other Moderators on a daily basis to discuss tactics, flag behaviours and discuss actions that need to be taken. At the end of the month, Moderators provide a proof of work report with their activity logs from each channel.
 
 ----------------
-Page 5
 
 02. TRANSLATORS GET REWARDED
 
@@ -64,17 +62,12 @@ Remember to check the ‘translation’ tag on the forums to see what others are
 Ambassador status makes a Translator eligible to receive rewards. 
 Payments are made on a per-word basis of US$0.05/word (¢5 per one word), with a monthly cap of US$300. This equates to 6,000 words after a translation given the necessary paperwork has been handed in. If you want to receive rewards for your work, you will need to submit a Translation Report at the end of every month. 
 
-
-
 ----------------
-Page 6
 
 03. MEETUP ORGANIZERS GET REWARDED
 
 Change the world for the better. 
 One of the overarching goals of the Matchstick Foundation is to affect change in the real world. And to improve the world we live in, we need you to be an activist and bring people together on the ground. Running a meetup or an event is a form of volunteering you can be incredibly proud of because you are showing leadership. We will support you with toolkits, guides, swag and incentives because we want to see you succeed.
-
-
 
 Ambassador status makes a Meetup Organizer eligible to receive sponsorship from their third meetup. 
 
@@ -86,13 +79,9 @@ A baseline incentive of US$20 for a recap report post-event. It should be submit
  
 Extra reward can be provided based on the success of the event. In other words, the higher the number of participants and the better the quality of the recap – the more rewards you can earn.
 
-
-
 *After the event, you should submit photo and/or video evidence and attendee feedback forms to the Community Management Team to ensure these non-monetary and monetary sponsorship items were properly handed out.
 
-
 ----------------
-Page 7
 
 04. CONTENT CREATORS GET REWARDED
 
@@ -108,7 +97,6 @@ Anyone can create content! However, members who want to receive rewards for thei
 Each piece of original content will be evaluated on its own merit. 
 Content Creators must always publish or link to their content on the Matchstick Forum.
 You will want to share and promote your work and link to the forum post to encourage feedback.
-
 
 Ambassador status makes a Content Creator eligible to receive rewards. 
 At the end of the month, Ambassadors will be able to share a report with all the content pieces they published in that month. Links to their content on the Matchstick Forum and original links (i.e. from YouTube or Medium) will need to be included. Content pieces that are accepted will receive a flat rate of US$20 with a monthly cap of US$300. Pieces that required more time and effort or received an overwhelmingly positive response from the community may be subject to greater reward at our discretion. 
