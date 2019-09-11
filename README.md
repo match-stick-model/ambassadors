@@ -20,12 +20,12 @@ To recognize and encourage the work of our regular community contributors, we of
 * Teamwork: collaborate with Ambassadors who share your passion for Matchstick.
 * Experience: build a professional path through gaining experience in blockchain. 
 * Be heard: Ambassadors will play a pivotal role in 2020, with more requests for feedback and greater involvement in decision-making opportunities – so make sure your voice is heard.
- 
- -----------
 
 ## Ambassador Roles
 
-01. MODERATORS GET REWARDED
+----------------
+
+### MODERATORS GET REWARDED
 
 Your community needs you! 
 We are looking for all kinds of people with different backgrounds and experiences to help cultivate and nurture the community. Our Moderators are individuals who love people and want to help. We have several official channels, with each delivering information in a different way and some channels are area-specific.
@@ -46,7 +46,7 @@ You will communicate with other Moderators on a daily basis to discuss tactics, 
 
 ----------------
 
-02. TRANSLATORS GET REWARDED
+### TRANSLATORS GET REWARDED
 
 Make a global impact. 
 Drive Matchstick’s adoption by using your expertise to translate knowledge. In order to grow our library of translated materials, we often rely on the help of volunteers like you – known as Translators. Fluent in their respective languages and with a strong desire to elevate the Matchstick community, our Translators help speed worldwide adoption by sharing newsletters, announcements, guides and documentation in other languages we are yet to support.
@@ -64,7 +64,7 @@ Payments are made on a per-word basis of US$0.05/word (¢5 per one word), with a
 
 ----------------
 
-03. MEETUP ORGANIZERS GET REWARDED
+### MEETUP ORGANIZERS GET REWARDED
 
 Change the world for the better. 
 One of the overarching goals of the Matchstick Foundation is to affect change in the real world. And to improve the world we live in, we need you to be an activist and bring people together on the ground. Running a meetup or an event is a form of volunteering you can be incredibly proud of because you are showing leadership. We will support you with toolkits, guides, swag and incentives because we want to see you succeed.
@@ -83,7 +83,7 @@ Extra reward can be provided based on the success of the event. In other words, 
 
 ----------------
 
-04. CONTENT CREATORS GET REWARDED
+### CONTENT CREATORS GET REWARDED
 
 Shift your energy to what you can create.
 Your content is vital for driving the adoption of Matchstick because knowledge gaps always exist due to the technical nature and breadth of the project.
